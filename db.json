@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+   
+  ],
+  "users": [
+    {
+      "firstname": "abc",
+      "lastname": "bnfgn",
+      "email": "a@123",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "firstname": "Tushar",
+      "lastname": "Gandhile",
+      "email": "t@123",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
